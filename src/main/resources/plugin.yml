@@ -1,0 +1,3 @@
+name: ExamplePlugin
+version: '${project.version}'
+main: net.zffu.exampleplugin.spigot.ExamplePluginSpigot
